@@ -6,7 +6,7 @@ Continuously moving by python
 3.  input destination path
 
 
-excludable filter available by editing:
+Excludable filter available by editing:
 extension_list = ('.downloading', '.jpeg', '.jpg', '.htm', '.dmg', '.tmp', '.txt', '.html')
 
 Hope it's not too shabby as my first uploaded code :D
